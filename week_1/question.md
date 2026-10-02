@@ -102,6 +102,7 @@ I verified the main concepts by comparing the explanation with educational mater
 ### R - Reflection
 I learned that an LLM's response is generated step by step. The model uses the context available to it to determine probable next tokens. This also helped me understand why an AI-generated answer can sound confident while still containing incorrect information. The generation process itself does not guarantee that every statement is factually correct.
 
+
 ## Q4
 ### A - Answer
 I asked the same question to two AI assistants, ChatGPT and Gemini, and compared their responses. Both assistants provided explanations of artificial intelligence, machine learning, deep learning, and generative AI, along with examples.
@@ -113,7 +114,7 @@ I used the same prompt in both AI assistants:
 
 "Explain the difference between artificial intelligence, machine learning, deep learning, and generative AI. Give one simple example of each."
 
-I saved the actual responses from both ChatGPT and Gemini in `ai-comparison.md
+I saved the actual responses from both ChatGPT and Gemini in `ai-comparison.md`.
 ### V - Verification
 I compared the main claims from both responses with reliable reference material. I checked the definitions and examples rather than assuming that the AI-generated responses were automatically correct.
 
